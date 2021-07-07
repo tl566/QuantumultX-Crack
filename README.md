@@ -2,88 +2,117 @@
 自用-🔓一切的一切……
 京东重写订阅...........
 
-全网各大佬boxjs地址查询对照
+### 全网各大佬boxjs地址查询对照
 
-龙猪猪
+`龙猪猪`
 
 https://raw.githubusercontent.com/longzhuzhu/nianyu/main/qx/longzhuzhu.boxjs.json
 
-dompling二丫
+----------
+
+`dompling二丫`
 
 https://raw.githubusercontent.com/dompling/Script/master/dompling.boxjs.json
 
-passerby-b
+--------------
+
+`passerby-b`
 
 https://raw.githubusercontent.com/passerby-b/JDDJ/main/passerby-b.boxjs.json
 
-柠檬
+-------------
+
+`柠檬`
 
 http://nm66.top/nm.box.json
 
-tom
+----------
+
+`tom`
 
 https://raw.githubusercontent.com/xl2101200/-/main/tom.box.json
 
-lxk0301
+-----------
+
+`lxk0301`
 
 https://raw.githubusercontent.com/chinnkarahoi/jd_scripts/master/lxk0301.boxjs.json
 
-toulanboy
+-------
+`toulanboy`
 
 https://raw.githubusercontent.com/toulanboy/scripts/master/toulanboy.boxjs.json
 
-sunert
+------------
+`sunert` 
 
 https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/sunert.boxjs.json
 
-zzpiglet
+-----------
+`zzpiglet`
 
 https://raw.githubusercontent.com/zZPiglet/Task/master/zZPiglet.boxjs.json
 
-chavy
+-----------
+
+`chavy`
 
 https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.json
 
-peng-pm
+---------
+
+`peng-pm`
 
 https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/box.js.json
 
-nobyda
+-----------
+
+`nobyda`
 
 https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json
 
-whyour
+-----------
+`whyour`
 
 https://raw.githubusercontent.com/whyour/hundun/master/quanx/whyour.boxjs.json
 
-photomang
+-----------
+
+`photomang`
 
 https://raw.githubusercontent.com/photonmang/quantumultX/master/photonmang.boxjs.json
 
-Ariszy 原Zhiyi-n
+---------
+`Ariszy` 原`Zhiyi-n`
 
 https://raw.githubusercontent.com/Ariszy/Private-Script/master/Ariszy.boxjs.json
 
-姐姐
+-----------
+`姐姐`
 
 https://raw.githubusercontent.com/CenBoMin/GithubSync/main/cenbomin.box.json
 
-dd
+------
+`dd`
 
 https://raw.githubusercontent.com/DD-D1/2020scripts/master/box/dd.signboxjs.js
 
-feizao
+------------
+`feizao`
 
 https://raw.githubusercontent.com/age174/-/main/feizao.box.json
 
-ziye
+--------
+`ziye`
 
 https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/ziye.boxjs.json
 
-evilbutcher
+-----------
+`evilbutcher`
 
 https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/evilbutcher.boxjs.json
 
-ztxtop
+-------
+`ztxtop`
 
 https://raw.githubusercontent.com/ztxtop/x/main/ztxtop.boxjs.json
